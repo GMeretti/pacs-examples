@@ -21,7 +21,7 @@
 #
 
 # The directory where the examples reside (you HAVE to change this)
-PACS_ROOT=/home/forma/PacsVirtualMachine/pacs/PACSCourse/Material/Examples
+PACS_ROOT= /home/giorgio/Desktop/PACS/pacs-examples/Examples
 # The directory with the Eigen (leave blank if they are in a standard directory)
 EIGEN_DIR=$(mkEigenInc)
 #EIGEN_DIR=/usr/local/include/eigen3/
